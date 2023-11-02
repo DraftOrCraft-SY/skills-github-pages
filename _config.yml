@@ -1,0 +1,8 @@
+---
+layout: default
+title: Welcome to my blog
+author: SY
+date: today
+---
+
+<h1>{{ "Hello Wolrd!" | downcase }}</h1>
